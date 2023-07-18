@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+article{
+    font-size: 14pt;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+img {
+    width: 500px;
+    height: auto;  
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+body{
+    margin: 8px;
+}
+#mainHeading {
+   color: red;
+   font-size: 16pt;
+   font-family:Consolas,monospace;
+}
+.funParagraph{
+    color:green
+}
